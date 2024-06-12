@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6f616edaa559c384b866b5f0ebc185c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redOrbPrefab: {fileID: 8870904579449388147, guid: 1c9a3fdbd2816514abb27cb3d9c7c56d, type: 3}
+  - greenOrbPrefab: {fileID: 4372047580117632218, guid: f9c6d2b5783b0ca448ae93617bc131df, type: 3}
+  - blueOrbPrefab: {fileID: 2478151177660044, guid: 9161f88a8bd3a994bb86f1cbc96f8469, type: 3}
+  - obstaclePrefabs: {fileID: 1007118721410389080, guid: 145b216cbe3473f42995113cf71a0b57, type: 3}
+  - dividerPrefab: {fileID: 5252805328766425061, guid: aec4876ca09b92843a6dc8fe5c8196ef, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
